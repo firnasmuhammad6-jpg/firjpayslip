@@ -1,0 +1,6 @@
+{
+  "name": "Geometric Payslip Maker",
+  "description": "Professional company payslip generator and payroll management suite with custom earnings, deductions, tax calculations, PDF exports, employee directory, and geometric printable templates.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
